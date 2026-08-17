@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey there! 👋 I'm Shardul
 
-<!--
-**shardulj-code/shardulj-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 1st Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a curious CSE student who enjoys **learning, experimenting, building things, and figuring out how technology works.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my foundations in programming and exploring different areas of computer science.
+
+### 🚀 Currently Learning
+
+* 🐍 Python
+* ⚡ C++
+* 🌐 HTML & Web Development
+* 🤖 AI & Chatbots
+* 🔧 Git & GitHub
+* 📚 Exploring more areas of Computer Science
+
+### 🛠️ What I Like Doing
+
+* 💡 Turning ideas into small projects
+* 🧪 Experimenting with new technologies
+* 🤖 Exploring AI and automation
+* 🌐 Building websites and applications
+* 🧩 Solving programming problems
+* 📖 Learning something new every day
+
+### 📌 My Goal
+
+> Learn → Build → Break → Fix → Improve → Repeat. 🔁
+
+I'm still at the beginning of my journey, so this profile is a record of what I learn, build, and experiment with along the way.
+
+### 📂 Projects
+
+You'll find my experiments, practice projects, and future builds here.
+
+More projects coming as I learn more. 🚀
+
+### 📈 My Journey
+
+**2026 → Started my CSE journey**
+
+Learning the fundamentals, building projects, experimenting with technology, and exploring where Computer Science can take me.
+
+### 🤝 Let's Connect
+
+I'm always interested in learning from other developers, discovering interesting projects, and collaborating on things that help me learn.
+
+**Keep learning. Keep building. Keep experimenting. 🚀**
