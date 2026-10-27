@@ -1,49 +1,34 @@
-# Hey there! 👋 I'm Shardul
+<div align="center">
 
-### 💻 1st Year Computer Science Engineering Student
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d001a,55:1a0033,80:6600cc,100:bf00ff&height=230&section=header&text=SHARDUL%20JADHAV&fontSize=68&fontColor=bf00ff&fontAlignY=40&desc=◈%20B.Tech%20CSE%20◈%20GenAI%20Architect%20◈%20Cloud%20&%20AI%20Dev%20◈&descAlignY=63&descSize=15&descColor=d966ff&animation=twinkling&stroke=7700cc&strokeWidth=2" />
 
-I'm a curious CSE student who enjoys **learning, experimenting, building things, and figuring out how technology works.**
+<br/>
 
-I'm currently building my foundations in programming and exploring different areas of computer science.
+<!-- ░░░ TYPING ANIMATION ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=400&color=BF00FF&center=true&vCenter=true&width=720&lines=▸+Building+Multi-Agent+AI+Architectures+🤖;▸+Deploying+GenAI+apps+with+Gemini+&+Streamlit+⚡;▸+Cloud+Infrastructure+&+IAM+Security+☁️;▸+UI/UX+Designer+|+Enterprise+Design+Thinking+🎨;▸+Python+%26+C++%++Full-Stack+Vibecoder+💻;▸+Exploring+AI%2FML+|+Cloud+Engineering+🚀" />
 
-### 🚀 Currently Learning
+</div>
 
-* 🐍 Python
-* ⚡ C++
-* 🌐 HTML & Web Development
-* 🤖 AI & Chatbots
-* 🔧 Git & GitHub
-* 📚 Exploring more areas of Computer Science
+<br/>
 
-### 🛠️ What I Like Doing
+---
 
-* 💡 Turning ideas into small projects
-* 🧪 Experimenting with new technologies
-* 🤖 Exploring AI and automation
-* 🌐 Building websites and applications
-* 🧩 Solving programming problems
-* 📖 Learning something new every day
+<!-- ░░░ WHOAMI ░░░ -->
+<div align="center">
 
-### 📌 My Goal
+## 〔 🧬 `whoami` 🧬 〕
 
-> Learn → Build → Break → Fix → Improve → Repeat. 🔁
+</div>
 
-I'm still at the beginning of my journey, so this profile is a record of what I learn, build, and experiment with along the way.
+```python
+class ShardulJadhav:
+    def __init__(self):
+        self.name       = "Shardul Jadhav"
+        self.role       = "B.Tech CSE Student & GenAI Application Developer"
+        self.focus      = ["Multi-Agent Systems", "Cloud Engineering", "UI/UX & Design Thinking"]
+        self.mindset    = "Build → Experiment → Optimize → Repeat 🔁"
+        self.os         = "Arch Linux / Windows dual-boot"
 
-### 📂 Projects
-
-You'll find my experiments, practice projects, and future builds here.
-
-More projects coming as I learn more. 🚀
-
-### 📈 My Journey
-
-**2026 → Started my CSE journey**
-
-Learning the fundamentals, building projects, experimenting with technology, and exploring where Computer Science can take me.
-
-### 🤝 Let's Connect
-
-I'm always interested in learning from other developers, discovering interesting projects, and collaborating on things that help me learn.
-
-**Keep learning. Keep building. Keep experimenting. 🚀**
+    def ask_me_about(self):
+        return ["GenAI", "Google Cloud", "Multi-Agent Systems", "UI/UX", "Python & C++"]
