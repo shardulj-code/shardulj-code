@@ -1,34 +1,212 @@
+<!--
+  SHARDUL | GitHub Profile README
+  Edit the skills table and project links whenever you want.
+  GitHub README files do not execute JavaScript, so keep skills editable in Markdown.
+-->
+
 <div align="center">
 
-<!-- ░░░ HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d001a,55:1a0033,80:6600cc,100:bf00ff&height=230&section=header&text=SHARDUL%20JADHAV&fontSize=68&fontColor=bf00ff&fontAlignY=40&desc=◈%20B.Tech%20CSE%20◈%20GenAI%20Architect%20◈%20Cloud%20&%20AI%20Dev%20◈&descAlignY=63&descSize=15&descColor=d966ff&animation=twinkling&stroke=7700cc&strokeWidth=2" />
+```text
+███████╗██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██║   ██║██║
+███████╗███████║███████║██████╔╝██║  ██║██║   ██║██║
+╚════██║██╔══██║██╔══██║██╔══██╗██║  ██║██║   ██║██║
+███████║██║  ██║██║  ██║██║  ██║██████╔╝╚██████╔╝██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝
+```
 
-<br/>
+### `AI/ML ENTHUSIAST` · `CLOUD ENGINEERING` · `UI/UX`
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=400&color=BF00FF&center=true&vCenter=true&width=720&lines=▸+Building+Multi-Agent+AI+Architectures+🤖;▸+Deploying+GenAI+apps+with+Gemini+&+Streamlit+⚡;▸+Cloud+Infrastructure+&+IAM+Security+☁️;▸+UI/UX+Designer+|+Enterprise+Design+Thinking+🎨;▸+Python+%26+C++%++Full-Stack+Vibecoder+💻;▸+Exploring+AI%2FML+|+Cloud+Engineering+🚀" />
+*Building intelligent systems. Designing thoughtful experiences. Exploring what's next.*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=650&lines=Generative+AI+%2F+Agentic+Systems;Cloud+Engineering+%2F+AI+Applications;UI%2FUX+%2F+Human-Centered+Design;Arch+Linux+%2B+Windows;Build.+Break.+Learn.+Repeat." alt="Typing introduction" />
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ░░░ WHOAMI ░░░ -->
+## `01 // WHOAMI`
+
+```python
+class Shardul:
+    def __init__(self):
+        self.username = "shardulj-code"
+        self.focus = [
+            "Generative AI",
+            "AI/ML Applications",
+            "Cloud Engineering",
+            "UI/UX Design",
+            "Software Development"
+        ]
+        self.languages = ["Python", "C++"]
+        self.environments = ["Arch Linux", "Windows"]
+        self.mindset = "Always learning. Always building."
+
+    def currently_exploring(self):
+        return [
+            "Agentic AI",
+            "AI-powered applications",
+            "Cloud infrastructure",
+            "Developer tooling"
+        ]
+
+me = Shardul()
+```
+
+I'm a developer and technology enthusiast interested in the intersection of **AI, cloud infrastructure, and design**.
+
+I enjoy turning ideas into working applications, experimenting with emerging technologies, and building interfaces that are as practical as they are intuitive.
+
+My workflow moves between **Arch Linux and Windows**, with Python, AI tools, GitHub, and a healthy amount of experimentation.
+
+```text
+[ STATUS ]   LEARNING
+[ MODE   ]   BUILDING
+[ FOCUS  ]   AI + CLOUD + DESIGN
+[ NEXT   ]   SOMETHING INTERESTING
+```
+
+---
+
+## `02 // TECH STACK`
+
+<!-- Keep this table updated as your skills evolve. -->
+
+| Category                    | Technologies & Areas                            |
+| --------------------------- | ----------------------------------------------- |
+| **Programming**             | Python, C++                                     |
+| **Generative AI**           | Gemini, Imagen, Prompt Engineering, NLP         |
+| **Agentic AI**              | Multi-Agent Systems, AI Application Development |
+| **Cloud**                   | Google Cloud Platform, IAM, Service Accounts    |
+| **AI Services**             | Cloud Vision API, Google AI Studio              |
+| **Application Development** | Streamlit, React, Supabase                      |
+| **UI/UX Design**            | Figma, Prototyping, Enterprise Design Thinking  |
+| **Developer Tools**         | Git, GitHub, VS Code, Docker                    |
+| **Operating Systems**       | Arch Linux, Windows                             |
+
+---
+
+## `03 // GITHUB ANALYTICS`
+
 <div align="center">
 
-## 〔 🧬 `whoami` 🧬 〕
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shardulj-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardulj-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" alt="Most used programming languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shardulj-code&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
-```python
-class ShardulJadhav:
-    def __init__(self):
-        self.name       = "Shardul Jadhav"
-        self.role       = "B.Tech CSE Student & GenAI Application Developer"
-        self.focus      = ["Multi-Agent Systems", "Cloud Engineering", "UI/UX & Design Thinking"]
-        self.mindset    = "Build → Experiment → Optimize → Repeat 🔁"
-        self.os         = "Arch Linux / Windows dual-boot"
+## `04 // CONTRIBUTION ACTIVITY`
 
-    def ask_me_about(self):
-        return ["GenAI", "Google Cloud", "Multi-Agent Systems", "UI/UX", "Python & C++"]
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shardulj-code&bg_color=0D1117&color=C9D1D9&line=A970FF&point=FFFFFF&area=true&hide_border=true&custom_title=SHARDUL%27S%20CONTRIBUTION%20TIMELINE" alt="GitHub contribution activity graph" />
+
+</div>
+
+### Live Contribution Snake
+
+<div align="center">
+
+<!-- Generated by the GitHub Actions workflow described below. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake eating GitHub contribution squares" src="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## `05 // WHAT I'M INTO`
+
+```text
++--------------------------------------------------+
+| 01. GENERATIVE AI                                |
+|     Building applications around modern AI models|
+|                                                  |
+| 02. CLOUD ENGINEERING                            |
+|     Understanding infrastructure and deployment  |
+|                                                  |
+| 03. UI/UX                                         |
+|     Turning complex ideas into usable interfaces |
+|                                                  |
+| 04. OPEN SOURCE                                   |
+|     Learning in public and improving through code|
+|                                                  |
+| 05. LINUX                                          |
+|     Exploring the terminal, customization & tools|
++--------------------------------------------------+
+```
+
+---
+
+## `06 // FEATURED PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/shardulj-code?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-A970FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+</div>
+
+Check out my repositories for experiments, applications, prototypes, and projects spanning AI, software development, and interactive experiences.
+
+**Currently interested in:** projects that combine technical depth with useful, well-designed user experiences.
+
+---
+
+## `07 // DEVELOPER ENVIRONMENT`
+
+```bash
+$ whoami
+shardul
+
+$ uname -o
+GNU/Linux  # Also working on Windows
+
+$ cat /etc/motd
+Build things that solve real problems.
+
+$ git status
+Learning new things.
+Building new things.
+Improving existing things.
+
+$ _
+```
+
+---
+
+## `08 // THE DEVELOPER MINDSET`
+
+<div align="center">
+
+> Build intelligent systems, design seamless experiences, and let the architecture speak for itself.
+
+**— SHARDUL**
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+THANK YOU FOR VISITING.
+
+Ideas become projects.
+Projects become experience.
+Experience fuels the next idea.
+
+[ END OF TRANSMISSION ]
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:A970FF,100:0D1117&height=120&section=footer" width="100%" alt="Purple wave footer" />
+
+</div>
