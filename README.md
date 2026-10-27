@@ -1,282 +1,318 @@
 <div align="center">
 
-<!-- NEON PURPLE / BLACK THEME -->
+<!-- ═══════════════ ANIMATED NEON HEADER ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d001a,55:1a0033,80:6600cc,100:bf00ff&height=230&section=header&text=SHARDUL&fontSize=82&fontColor=bf00ff&fontAlignY=40&desc=◈%20GENAI%20◈%20CLOUD%20ENGINEERING%20◈%20UI%2FUX%20◈&descAlignY=64&descSize=15&descColor=d966ff&animation=twinkling&stroke=7700cc&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d001a,55:1a0033,80:6600cc,100:bf00ff&height=230&section=header&text=SHARDUL&fontSize=78&fontColor=bf00ff&fontAlignY=40&desc=◈%20GenAI%20Architect%20◈%20Multi-Agent%20Developer%20◈%20Cloud%20Engineer%20◈&descAlignY=63&descSize=15&descColor=d966ff&animation=twinkling&stroke=7700cc&strokeWidth=2" alt="SHARDUL — Neon Purple Animated Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1800&pause=450&color=BF00FF&center=true&vCenter=true&width=700&lines=▸+Building+with+Generative+AI;▸+Exploring+cloud+engineering;▸+Designing+useful+digital+experiences;▸+Arch+Linux+%2B+Windows;▸+Learn.+Build.+Iterate.+Repeat." alt="Typing animation" />
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=400&color=BF00FF&center=true&vCenter=true&width=740&lines=Building+Multi-Agent+AI+Architectures;Developing+GenAI+Apps+with+Gemini+and+Streamlit;Cloud+Engineering+%7C+IAM+Security;UI%2FUX+Design+%7C+Enterprise+Design+Thinking;Python+%26+C%2B%2B+%7C+Application+Development;Arch+Linux+%2B+Windows" alt="Animated typing introduction" />
 
 <br/><br/>
+
+<!-- ═══════════════ PROFILE STATUS ═══════════════ -->
+
+<img src="https://komarev.com/ghpvc/?username=shardulj-code&color=bf00ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+ 
+
+<img src="https://img.shields.io/github/followers/shardulj-code?color=bf00ff&logo=github&style=for-the-badge&label=FOLLOWERS" alt="GitHub followers" />
+
+ 
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-bf00ff?style=for-the-badge&logo=statuspage&logoColor=white" alt="Current status" />
+
+ 
+
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20CLOUD-bf00ff?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus areas" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
 </div>
 
 ---
 
-## 〔 `whoami` 〕
+<!-- ═══════════════ WHOAMI ═══════════════ -->
 
 <div align="center">
 
-```text
-███████╗██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██║   ██║██║
-███████╗███████║███████║██████╔╝██║  ██║██║   ██║██║
-╚════██║██╔══██║██╔══██║██╔══██╗██║  ██║██║   ██║██║
-███████║██║  ██║██║  ██║██║  ██║██████╔╝╚██████╔╝██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝
-```
+## 〔 🧬 `whoami` 🧬 〕
 
 </div>
 
 ```python
 class Shardul:
     def __init__(self):
-        self.name = "SHARDUL"
-        self.github = "shardulj-code"
-        self.focus = [
+        self.role = "AI Developer | UI/UX Designer | Cloud Enthusiast"
+        self.interests = [
             "Generative AI",
-            "AI/ML Applications",
-            "Cloud Engineering",
+            "Multi-Agent Systems",
+            "AI Application Development",
+            "Cloud Engineering & IAM",
             "UI/UX Design",
-            "Software Development",
+            "Open Source",
         ]
-        self.languages = ["Python", "C++"]
-        self.environments = ["Arch Linux", "Windows"]
-        self.mindset = "Build with purpose. Learn continuously."
 
-    def currently_exploring(self):
-        return [
-            "Agentic AI and multi-agent systems",
-            "AI-powered applications",
-            "Cloud infrastructure and deployment",
-            "Human-centered product design",
-        ]
+        self.languages = ["Python", "C", "C++"]
+        self.tools = ["Git", "GitHub", "Streamlit", "Figma"]
+        self.operating_systems = ["Arch Linux (Omarchy)", "Windows"]
+
+    def current_mission(self):
+        return "Turning ideas into practical, user-focused technology."
+
+    def mindset(self):
+        return "Build. Experiment. Learn. Improve."
+
 
 me = Shardul()
 ```
 
-I'm interested in the intersection of **AI, cloud infrastructure, and thoughtful design**. I enjoy turning ideas into useful applications, experimenting with emerging technologies, and building interfaces that are both practical and intuitive.
+* Building practical applications at the intersection of **AI, software development, and design**.
+* Exploring **Generative AI, multi-agent architectures, and AI-powered applications**.
+* Interested in cloud infrastructure, identity and access management, and secure application deployment.
+* Designing intuitive digital experiences through UI/UX and enterprise design thinking.
+* Learning by building projects, experimenting with tools, and solving real problems.
+* Always exploring something new in the open-source ecosystem.
+
+<br/>
+
+<div align="center">
+
+`[ BUILD ]`   `→`   `[ EXPERIMENT ]`   `→`   `[ IMPROVE ]`
+
+</div>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+<div align="center">
+
+## 〔 ⚡ `tech_stack` ⚡ 〕
+
+*Technologies I'm exploring and using in my development journey.*
+
+<br/>
+
+### `01` — Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" alt="Programming languages" />
+
+<br/><br/>
+
+### `02` — AI & Application Development
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI and machine learning technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+<img src="https://img.shields.io/badge/Generative%20AI-BF00FF?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6600CC?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt engineering" />
+
+<br/><br/>
+
+### `03` — Cloud, Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=gcp,firebase,supabase,mysql,postgres,fastapi&theme=dark" alt="Cloud, backend and database technologies" />
+
+<br/><br/>
+
+### `04` — Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=dark" alt="Development tools" />
+
+<br/><br/>
+
+### `05` — Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
+
+<br/><br/>
+
+### `06` — Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" alt="Operating systems" />
+
+<br/>
+
+**Current setup:** Arch Linux (Omarchy) + Windows
+
+</div>
+
+---
+
+<!-- ═══════════════ SKILLS ═══════════════ -->
+
+<div align="center">
+
+## 〔 🛠️ `skill_matrix` 🛠️ 〕
+
+</div>
+
+| Domain                      | Skills & Technologies                                  |
+| :-------------------------- | :----------------------------------------------------- |
+| **Programming**             | Python, C, C++                                         |
+| **Generative AI**           | Gemini, Prompt Engineering, AI Application Development |
+| **AI Systems**              | Exploring Multi-Agent Architectures and AI Workflows   |
+| **Cloud & Security**        | Google Cloud, IAM Fundamentals                         |
+| **Application Development** | Streamlit, API Integration, Application Deployment     |
+| **UI/UX Design**            | Figma, Prototyping, User-Centered Design               |
+| **Development Workflow**    | Git, GitHub, VS Code, Vercel                           |
+| **Operating Systems**       | Arch Linux (Omarchy), Windows                          |
+
+> This is an evolving skill matrix. As I build more projects, I update it with new tools and technologies.
+
+---
+
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+
+<div align="center">
+
+## 〔 🎯 `currently_exploring` 🎯 〕
+
+</div>
 
 ```text
-[ STATUS ]  LEARNING / BUILDING
-[ FOCUS  ]  GENAI + CLOUD + DESIGN
-[ SYSTEM ]  ARCH LINUX / WINDOWS
-[ MINDSET]  MAKE IT WORK. MAKE IT CLEAR. MAKE IT BETTER.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [01]  Generative AI & Multi-Agent Systems               │
+│        Exploring intelligent workflows and AI apps.      │
+│                                                          │
+│  [02]  Cloud Engineering                                 │
+│        Learning cloud services, IAM, and deployment.     │
+│                                                          │
+│  [03]  AI-Powered Applications                           │
+│        Turning AI capabilities into usable products.     │
+│                                                          │
+│  [04]  UI/UX & Product Design                            │
+│        Building intuitive and practical interfaces.      │
+│                                                          │
+│  [05]  Open Source & Linux                               │
+│        Exploring developer tools and Linux workflows.   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `~/stats --verbose`
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shardulj-code&show_icons=true&theme=transparent&hide_border=true&title_color=bf00ff&icon_color=bf00ff&text_color=e0d4ff&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+## 〔 📊 `github_analytics` 📊 〕
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardulj-code&layout=compact&theme=transparent&hide_border=true&title_color=bf00ff&text_color=e0d4ff&bg_color=00000000&langs_count=8" alt="Top languages" />
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shardulj-code&show_icons=true&hide_border=true&bg_color=0D001A&title_color=BF00FF&icon_color=D966FF&text_color=E6CCFF&ring_color=BF00FF&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardulj-code&layout=compact&hide_border=true&bg_color=0D001A&title_color=BF00FF&text_color=E6CCFF&langs_count=8" alt="Most used programming languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shardulj-code&theme=dark&hide_border=true&background=00000000&ring=bf00ff&fire=d966ff&currStreakLabel=bf00ff&sideLabels=d966ff&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shardulj-code&hide_border=true&background=0D001A&ring=BF00FF&fire=D966FF&currStreakLabel=BF00FF&sideLabels=D966FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B7AB8" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shardulj-code&bg_color=0D001A&color=D966FF&line=BF00FF&point=FFFFFF&area=true&area_color=6600CC&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## `01 // LANGUAGES & DEVELOPMENT`
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
 
 <div align="center">
 
-### `Programming Languages`
+## 〔 🐍 `contribution_activity` 🐍 〕
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql&theme=dark" alt="Python, C++, JavaScript and MySQL icons" />
-
-<br/><br/>
-
-### `Frameworks & Application Development`
-
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,streamlit,supabase&theme=dark" alt="React, Flask, FastAPI, Streamlit and Supabase icons" />
-
-<br/><br/>
-
-### `Developer Tools`
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code and Docker icons" />
+<img src="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-## `02 // AI / GENAI ARSENAL`
+<!-- ═══════════════ DEVELOPER ENVIRONMENT ═══════════════ -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV and Jupyter icons" />
-
-<br/><br/>
-
-`Gemini` · `Imagen` · `Google AI Studio` · `Prompt Engineering` · `NLP` · `Multi-Agent Systems`
+## 〔 💻 `dev_environment` 💻 〕
 
 </div>
 
+```yaml
+developer:
+  name: "Shardul"
+  interests:
+    - Generative AI
+    - Software Development
+    - UI/UX Design
+    - Cloud Engineering
+
+environment:
+  primary_os: "Arch Linux (Omarchy)"
+  secondary_os: "Windows"
+  editor: "Visual Studio Code"
+  version_control: "Git + GitHub"
+
+workflow:
+  - Design
+  - Develop
+  - Test
+  - Deploy
+  - Iterate
+```
+
 ---
 
-## `03 // CLOUD & UI/UX`
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=gcp,figma&theme=dark" alt="Google Cloud and Figma icons" />
+## 〔 🌐 `connect_with_me` 🌐 〕
 
-<br/><br/>
+<br/>
 
-`Google Cloud Platform` · `IAM` · `Service Accounts` · `Cloud Vision API` · `Enterprise Design Thinking` · `Prototyping`
-
-</div>
-
----
-
-## `04 // OPERATING SYSTEMS & WORKFLOW`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=arch,linux,windows,bash,git,vscode&theme=dark" alt="Arch Linux, Linux, Windows, Bash, Git and VS Code icons" />
-
-<br/><br/>
-
-`Arch Linux` · `Windows` · `Terminal-first workflow` · `GitHub`
-
-</div>
-
----
-
-## `05 // EDITABLE SKILLS DIRECTORY`
-
-<!-- Update this table whenever your skills change. GitHub README Markdown does not execute JavaScript. -->
-
-| Category                | Skills and Technologies                         |
-| ----------------------- | ----------------------------------------------- |
-| Programming             | Python, C++                                     |
-| Generative AI           | Gemini, Imagen, Prompt Engineering, NLP         |
-| Agentic AI              | Multi-Agent Systems, AI Application Development |
-| Cloud                   | Google Cloud Platform, IAM, Service Accounts    |
-| AI Services             | Cloud Vision API, Google AI Studio              |
-| Application Development | Streamlit, React, Supabase                      |
-| UI/UX                   | Figma, Prototyping, Enterprise Design Thinking  |
-| Developer Tools         | Git, GitHub, VS Code, Docker                    |
-| Operating Systems       | Arch Linux, Windows                             |
-
----
-
-## `06 // CURRENT INTERESTS`
-
-<div align="center">
-
-| Area | Focus                           |
-| :--: | ------------------------------- |
-| `01` | **GENERATIVE AI**               |
-| `02` | **AGENTIC SYSTEMS**             |
-| `03` | **CLOUD ENGINEERING**           |
-| `04` | **UI/UX & PRODUCT DESIGN**      |
-| `05` | **LINUX & DEVELOPER WORKFLOWS** |
-| `06` | **OPEN-SOURCE PROJECTS**        |
-
-</div>
-
----
-
-## `07 // PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/shardulj-code?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0d001a?style=for-the-badge&labelColor=0d001a&color=bf00ff" alt="Explore repositories" />
+<a href="https://github.com/shardulj-code">
+  <img src="https://img.shields.io/badge/GitHub-0D001A?style=for-the-badge&logo=github&logoColor=BF00FF" alt="GitHub" />
 </a>
 
-</div>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D001A?style=for-the-badge&logo=linkedin&logoColor=BF00FF" alt="LinkedIn" />
+</a>
 
-I build and experiment with applications across AI, software development, interactive experiences, and interface design.
+<br/><br/>
 
-**Project focus:** useful functionality, clear UX, thoughtful implementation, and continuous iteration.
-
----
-
-## `08 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shardulj-code&bg_color=0a001a&color=e0d4ff&line=6600cc&point=bf00ff&area=true&area_color=1a0033&hide_border=true&custom_title=SHARDUL%27S%20NEURAL%20ACTIVITY%20GRID&title_color=bf00ff" alt="GitHub contribution activity graph" />
+*Open to learning, collaborating, and building meaningful projects.*
 
 </div>
 
 ---
 
-## `09 // NEURAL SNAKE — CONSUMING COMMITS`
+<!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/shardulj-code/shardulj-code/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated neon divider" />
 
-</div>
-
-> **Snake setup:** this animation needs a GitHub Actions workflow to generate the SVG files and publish them to an `output` branch. Until the workflow runs successfully, the image may not appear.
-
----
-
-## `10 // DEVELOPER ENVIRONMENT`
-
-```bash
-$ whoami
-SHARDUL
-
-$ echo $EDITOR
-Visual Studio Code
-
-$ uname -s
-Linux  # Also use Windows
-
-$ cat /etc/motd
-Build things that solve real problems.
-
-$ git status
-Learning new things.
-Building new things.
-Improving existing things.
-
-$ _
-```
-
----
-
-## `11 // THE MINDSET`
-
-<div align="center">
-
-> ### *“Build intelligent systems, design seamless experiences, and let the architecture speak for itself.”*
->
-> #### — **SHARDUL**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=700&color=6600CC&center=true&vCenter=true&width=620&lines=%2F%2F+Stay+curious.;%2F%2F+Build+with+purpose.;%2F%2F+Keep+experimenting.;%2F%2F+Make+the+next+thing+better." alt="Terminal sign-off" />
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ```text
-THANK YOU FOR VISITING.
-
-IDEAS BECOME PROJECTS.
-PROJECTS BECOME EXPERIENCE.
-EXPERIENCE FUELS THE NEXT IDEA.
-
-[ END OF TRANSMISSION ]
+01000010 01010101 01001001 01001100 01000100
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:bf00ff,40:1a0033,100:000000&height=150&section=footer&animation=twinkling" alt="Neon purple footer" />
+**`while (learning) { keep_building(); }`**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:6600cc,100:000000&height=120&section=footer" width="100%" alt="Neon purple animated footer" />
 
 </div>
